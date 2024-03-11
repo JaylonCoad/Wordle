@@ -1,4 +1,4 @@
-# Wordle
+# wordle
 *Important*
 - Included in the folder is a cpp file, text file, and exe file.
 - Make sure the text file is in the same directory/folder as the cpp file.
